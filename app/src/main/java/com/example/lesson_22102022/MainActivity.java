@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity
     private String _name;
 
     // Комментарий
+    // Новые изменения
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
