@@ -19,6 +19,8 @@ public class MainActivity extends AppCompatActivity
 
     // Решили конфликт
 
+    // gjhdskjhg
+
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
