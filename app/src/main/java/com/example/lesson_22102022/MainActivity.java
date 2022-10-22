@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity
     private int _counter = 0;
     private String _name;
 
+    // Комментарий
+
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
